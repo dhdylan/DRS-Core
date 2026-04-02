@@ -22,3 +22,5 @@ Installing this package can be done by Opening Package Manager -> "Add from git 
 
 Hello!
 
+Hello from test-branch
+
